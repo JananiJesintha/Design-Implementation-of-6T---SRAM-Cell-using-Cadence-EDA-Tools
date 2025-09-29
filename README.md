@@ -46,8 +46,7 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 #### 1. Schematic of 6T SRAM Cell:
 
-   ![image](https://github.com/user-attachments/assets/2273733f-5e94-415a-9971-793c64816a0d)
-
+   <img width="1919" height="1079" alt="Screenshot 2025-09-29 134851" src="https://github.com/user-attachments/assets/ee99de26-1bcf-4687-92e8-a1133b8af9c0" />
 
    ![image](https://github.com/user-attachments/assets/c28aea2b-9e73-48e6-abdb-11c430321b86)
 
@@ -55,10 +54,9 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Output
 #### 1. Transient Analysis Output:
 
-   ![Screenshot 2025-03-24 121615](https://github.com/user-attachments/assets/2805525e-1f0d-4ef8-b131-79a3153b7127)
+  <img width="1919" height="1079" alt="Screenshot 2025-09-29 135634" src="https://github.com/user-attachments/assets/06a0f125-aa25-4c1f-a77b-4830aa193786" />
 
-   ![Screenshot 2025-03-24 124545](https://github.com/user-attachments/assets/baf058fc-e967-43bc-ba49-ce9b5e5a2e7d)
-
+  <img width="1919" height="1079" alt="Screenshot 2025-09-29 135608" src="https://github.com/user-attachments/assets/8b78c3a7-bea0-491d-a844-dc4e08c47266" />
 
 ## Results:
 1. Successfully designed the 6T SRAM cell schematic using Cadence EDA tools.
